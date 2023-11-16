@@ -26,7 +26,7 @@ section{
 .ludo-container .ludo {
     height: 600px;
     width: 600px;
-    background-image: url('/board.jpg');
+    background-image: url('./board.jpg');
     background-size: contain;
     position: relative;
     border: solid 3px white;
